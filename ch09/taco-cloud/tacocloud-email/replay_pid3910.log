@@ -4907,7 +4907,7 @@ instanceKlass java/lang/CharSequence$1CharIterator
 instanceKlass org/hibernate/validator/internal/constraintvalidators/hv/NotBlankValidator
 instanceKlass java/util/PrimitiveIterator$OfInt
 instanceKlass java/util/PrimitiveIterator
-instanceKlass org/hibernate/validator/constraints/NotBlank
+instanceKlass javax.validation.constraints.NotBlank
 instanceKlass java/util/stream/MatchOps$$Lambda$93
 instanceKlass org/hibernate/validator/constraints/pl/PESEL
 instanceKlass org/springframework/boot/context/properties/source/SystemEnvironmentPropertyMapper$$Lambda$92

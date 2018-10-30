@@ -1329,7 +1329,7 @@ instanceKlass ch/qos/logback/core/pattern/parser/TokenStream$1
 instanceKlass org/hibernate/validator/constraints/ParameterScriptAssert
 instanceKlass org/hibernate/validator/internal/constraintvalidators/hv/NotBlankValidator
 instanceKlass ch/qos/logback/core/pattern/util/RestrictedEscapeUtil
-instanceKlass org/hibernate/validator/constraints/NotBlank
+instanceKlass javax.validation.constraints.NotBlank
 instanceKlass ch/qos/logback/core/pattern/parser/TokenStream
 instanceKlass org/hibernate/validator/constraints/pl/PESEL
 instanceKlass ch/qos/logback/core/pattern/util/RegularEscapeUtil
